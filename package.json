@@ -1,0 +1,14 @@
+{
+  "name": "phishcounter",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "author": "ESN Croatia IT team",
+  "license": "ISC",
+  "description": "Phishing server's website counting phishing link clicks. Part of the cybersecurity project testing the security awareness of members of the ESN Croatia student organization.",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
